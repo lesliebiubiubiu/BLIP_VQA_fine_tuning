@@ -1,7 +1,0 @@
-BLIP_checkpoints\
-dataset\
-VQA\
-VQAv2_dataset\
-GQA_eval.zip
-model_base_capflit_large.pth
-Training_output
